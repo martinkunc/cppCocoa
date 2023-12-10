@@ -1,5 +1,1 @@
-# cppCocoa
-# cppCocoa
-# cppCocoa
-# cppCocoa
-# cppCocoa
+Sample application to open NSRunAlertPanel on Sonoma in C++
